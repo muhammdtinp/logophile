@@ -1,7 +1,8 @@
 html + php + css
 
-with some features as login session separated teachers and students, 
-as students
+with some features as login session separated teachers and students,	
+
+as students	
 - pretest
 - learning materials: video; short material; learning module
 - quiz
@@ -9,7 +10,8 @@ as students
 - posttest
 - scoreboard from the quiz
 - all chat
-as teachers
+
+as teachers	
 - managing learning materials: crud
 - managing quizzes from categories to questions for each category: crud
 - managing student data: crud
